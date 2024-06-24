@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4B4+0eNqt2TZ76A53froMwG9D5PxUeaBcOAiFaK39n4=",
+  "Source": "SecondaryServer",
+  "BasePath": "_content/SecondaryServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

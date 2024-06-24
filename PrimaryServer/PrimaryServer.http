@@ -1,0 +1,6 @@
+@LogMonitorService_HostAddress = http://localhost:5003
+
+GET {{LogMonitorService_HostAddress}}/PrimaryLog/
+Accept: application/json
+
+###
